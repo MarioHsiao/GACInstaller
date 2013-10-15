@@ -1,0 +1,57 @@
+﻿Installing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Installing service GacInstaller...
+Service GacInstaller has been successfully installed.
+Creating EventLog source GacInstaller in log Application...
+Committing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Uninstalling assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Removing EventLog source GacInstaller.
+Service GacInstaller is being removed from the system...
+Service GacInstaller was successfully removed from the system.
+Attempt to stop service GacInstaller.
+Installing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Installing service GacInstaller...
+Service GacInstaller has been successfully installed.
+Creating EventLog source GacInstaller in log Application...
+Committing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Uninstalling assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Removing EventLog source GacInstaller.
+Service GacInstaller is being removed from the system...
+Service GacInstaller was successfully removed from the system.
+Attempt to stop service GacInstaller.
+Installing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
+Installing service GacInstaller...
+Service GacInstaller has been successfully installed.
+Creating EventLog source GacInstaller in log Application...
+Committing assembly 'C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.exe
+   logfile = C:\Users\akhilesh.s\Documents\Visual Studio 2010\Projects\GacInstaller\GacInstaller\bin\Debug\GacInstaller.InstallLog
